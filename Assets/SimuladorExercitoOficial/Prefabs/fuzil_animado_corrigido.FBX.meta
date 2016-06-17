@@ -1,0 +1,1528 @@
+fileFormatVersion: 2
+guid: 6dc244cc0daceb04082afc3443eae2b3
+timeCreated: 1439306277
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bala
+    100002: Bala_001
+    100004: Bala_002
+    100006: Bala_LOW002
+    100008: Bala_LOW004
+    100010: Bala_LOW005
+    100012: Bala_LOW006
+    100014: Bala_LOW007
+    100016: Bala_LOW008
+    100018: Bala_LOW009
+    100020: Bala_LOW010
+    100022: Bala_LOW011
+    100024: Bala_LOW012
+    100026: Bala_LOW013
+    100028: Bala_LOW014
+    100030: Bala_LOW015
+    100032: Bala_LOW016
+    100034: Bala_LOW017
+    100036: Bala_LOW018
+    100038: Bala_LOW019
+    100040: Bala_LOW020
+    100042: Bala_LOW021
+    100044: Bala_LOW022
+    100046: Bala_LOW023
+    100048: Bala_LOW024
+    100050: Bala_LOW025
+    100052: Bala_LOW026
+    100054: Bala_LOW027
+    100056: Bala_LOW028
+    100058: Bala_LOW029
+    100060: Bala_LOW030
+    100062: Box001
+    100064: Box001 1
+    100066: Box002
+    100068: Box003
+    100070: Box004
+    100072: Box005
+    100074: Box013
+    100076: Box016
+    100078: Cano_mira
+    100080: Cartucho
+    100082: Coronha
+    100084: Corpo
+    100086: Corpo_Batente
+    100088: Cylinder001
+    100090: Cylinder001 1
+    100092: Cylinder002
+    100094: Cylinder002 1
+    100096: Cylinder003
+    100098: Cylinder003 1
+    100100: Cylinder004
+    100102: Cylinder004 1
+    100104: Cylinder005
+    100106: Cylinder005 1
+    100108: Cylinder006
+    100110: Cylinder006 1
+    100112: Cylinder007
+    100114: Cylinder008
+    100116: Cylinder009
+    100118: Cylinder010
+    100120: Cylinder011
+    100122: Cylinder012
+    100124: Cylinder013
+    100126: Cylinder014
+    100128: Cylinder026
+    100130: Cylinder027
+    100132: Cylinder028
+    100134: Faca
+    100136: //RootNode
+    100138: Gatilho001
+    100140: Lentes
+    100142: Line001
+    100144: lp002
+    100146: Mira001
+    100148: Mira006
+    100150: Mira_holografica
+    100152: Mira_lente001
+    100154: Mira_lente001 1
+    100156: Mira_lente002
+    100158: Object002
+    100160: Object011
+    100162: Object020
+    100164: Object072
+    100166: Object073
+    100168: Object074
+    100170: Object075
+    100172: Object082
+    100174: Object083
+    100176: Object084
+    100178: Object086
+    100180: Object087
+    100182: Object090
+    100184: Object091
+    100186: Object092
+    100188: Object093
+    100190: Object094
+    100192: Object095
+    100194: Object096
+    100196: Object097
+    100198: Object104
+    100200: Punho
+    100202: Suportes
+    100204: Tube001
+    100206: Tube010
+    100208: Tube013
+    100210: Tube015
+    400000: Bala
+    400002: Bala_001
+    400004: Bala_002
+    400006: Bala_LOW002
+    400008: Bala_LOW004
+    400010: Bala_LOW005
+    400012: Bala_LOW006
+    400014: Bala_LOW007
+    400016: Bala_LOW008
+    400018: Bala_LOW009
+    400020: Bala_LOW010
+    400022: Bala_LOW011
+    400024: Bala_LOW012
+    400026: Bala_LOW013
+    400028: Bala_LOW014
+    400030: Bala_LOW015
+    400032: Bala_LOW016
+    400034: Bala_LOW017
+    400036: Bala_LOW018
+    400038: Bala_LOW019
+    400040: Bala_LOW020
+    400042: Bala_LOW021
+    400044: Bala_LOW022
+    400046: Bala_LOW023
+    400048: Bala_LOW024
+    400050: Bala_LOW025
+    400052: Bala_LOW026
+    400054: Bala_LOW027
+    400056: Bala_LOW028
+    400058: Bala_LOW029
+    400060: Bala_LOW030
+    400062: Box001
+    400064: Box001 1
+    400066: Box002
+    400068: Box003
+    400070: Box004
+    400072: Box005
+    400074: Box013
+    400076: Box016
+    400078: Cano_mira
+    400080: Cartucho
+    400082: Coronha
+    400084: Corpo
+    400086: Corpo_Batente
+    400088: Cylinder001
+    400090: Cylinder001 1
+    400092: Cylinder002
+    400094: Cylinder002 1
+    400096: Cylinder003
+    400098: Cylinder003 1
+    400100: Cylinder004
+    400102: Cylinder004 1
+    400104: Cylinder005
+    400106: Cylinder005 1
+    400108: Cylinder006
+    400110: Cylinder006 1
+    400112: Cylinder007
+    400114: Cylinder008
+    400116: Cylinder009
+    400118: Cylinder010
+    400120: Cylinder011
+    400122: Cylinder012
+    400124: Cylinder013
+    400126: Cylinder014
+    400128: Cylinder026
+    400130: Cylinder027
+    400132: Cylinder028
+    400134: Faca
+    400136: //RootNode
+    400138: Gatilho001
+    400140: Lentes
+    400142: Line001
+    400144: lp002
+    400146: Mira001
+    400148: Mira006
+    400150: Mira_holografica
+    400152: Mira_lente001
+    400154: Mira_lente001 1
+    400156: Mira_lente002
+    400158: Object002
+    400160: Object011
+    400162: Object020
+    400164: Object072
+    400166: Object073
+    400168: Object074
+    400170: Object075
+    400172: Object082
+    400174: Object083
+    400176: Object084
+    400178: Object086
+    400180: Object087
+    400182: Object090
+    400184: Object091
+    400186: Object092
+    400188: Object093
+    400190: Object094
+    400192: Object095
+    400194: Object096
+    400196: Object097
+    400198: Object104
+    400200: Punho
+    400202: Suportes
+    400204: Tube001
+    400206: Tube010
+    400208: Tube013
+    400210: Tube015
+    2300000: Bala_001
+    2300002: Bala_002
+    2300004: Bala_LOW002
+    2300006: Bala_LOW004
+    2300008: Bala_LOW005
+    2300010: Bala_LOW006
+    2300012: Bala_LOW007
+    2300014: Bala_LOW008
+    2300016: Bala_LOW009
+    2300018: Bala_LOW010
+    2300020: Bala_LOW011
+    2300022: Bala_LOW012
+    2300024: Bala_LOW013
+    2300026: Bala_LOW014
+    2300028: Bala_LOW015
+    2300030: Bala_LOW016
+    2300032: Bala_LOW017
+    2300034: Bala_LOW018
+    2300036: Bala_LOW019
+    2300038: Bala_LOW020
+    2300040: Bala_LOW021
+    2300042: Bala_LOW022
+    2300044: Bala_LOW023
+    2300046: Bala_LOW024
+    2300048: Bala_LOW025
+    2300050: Bala_LOW026
+    2300052: Bala_LOW027
+    2300054: Bala_LOW028
+    2300056: Bala_LOW029
+    2300058: Bala_LOW030
+    2300060: Box001
+    2300062: Box001 1
+    2300064: Box002
+    2300066: Box003
+    2300068: Box004
+    2300070: Box005
+    2300072: Box013
+    2300074: Box016
+    2300076: Cartucho
+    2300078: Cylinder001
+    2300080: Cylinder001 1
+    2300082: Cylinder002
+    2300084: Cylinder002 1
+    2300086: Cylinder003
+    2300088: Cylinder003 1
+    2300090: Cylinder004
+    2300092: Cylinder004 1
+    2300094: Cylinder005
+    2300096: Cylinder005 1
+    2300098: Cylinder006
+    2300100: Cylinder006 1
+    2300102: Cylinder007
+    2300104: Cylinder008
+    2300106: Cylinder009
+    2300108: Cylinder010
+    2300110: Cylinder011
+    2300112: Cylinder012
+    2300114: Cylinder013
+    2300116: Cylinder014
+    2300118: Cylinder026
+    2300120: Cylinder027
+    2300122: Cylinder028
+    2300124: Faca
+    2300126: Gatilho001
+    2300128: Line001
+    2300130: lp002
+    2300132: Mira001
+    2300134: Mira006
+    2300136: Mira_lente001
+    2300138: Mira_lente001 1
+    2300140: Mira_lente002
+    2300142: Object002
+    2300144: Object011
+    2300146: Object020
+    2300148: Object072
+    2300150: Object073
+    2300152: Object074
+    2300154: Object075
+    2300156: Object082
+    2300158: Object083
+    2300160: Object084
+    2300162: Object086
+    2300164: Object087
+    2300166: Object090
+    2300168: Object091
+    2300170: Object092
+    2300172: Object093
+    2300174: Object094
+    2300176: Object095
+    2300178: Object096
+    2300180: Object097
+    2300182: Object104
+    2300184: Tube001
+    2300186: Tube010
+    2300188: Tube013
+    2300190: Tube015
+    3300000: Bala_001
+    3300002: Bala_002
+    3300004: Bala_LOW002
+    3300006: Bala_LOW004
+    3300008: Bala_LOW005
+    3300010: Bala_LOW006
+    3300012: Bala_LOW007
+    3300014: Bala_LOW008
+    3300016: Bala_LOW009
+    3300018: Bala_LOW010
+    3300020: Bala_LOW011
+    3300022: Bala_LOW012
+    3300024: Bala_LOW013
+    3300026: Bala_LOW014
+    3300028: Bala_LOW015
+    3300030: Bala_LOW016
+    3300032: Bala_LOW017
+    3300034: Bala_LOW018
+    3300036: Bala_LOW019
+    3300038: Bala_LOW020
+    3300040: Bala_LOW021
+    3300042: Bala_LOW022
+    3300044: Bala_LOW023
+    3300046: Bala_LOW024
+    3300048: Bala_LOW025
+    3300050: Bala_LOW026
+    3300052: Bala_LOW027
+    3300054: Bala_LOW028
+    3300056: Bala_LOW029
+    3300058: Bala_LOW030
+    3300060: Box001
+    3300062: Box001 1
+    3300064: Box002
+    3300066: Box003
+    3300068: Box004
+    3300070: Box005
+    3300072: Box013
+    3300074: Box016
+    3300076: Cartucho
+    3300078: Cylinder001
+    3300080: Cylinder001 1
+    3300082: Cylinder002
+    3300084: Cylinder002 1
+    3300086: Cylinder003
+    3300088: Cylinder003 1
+    3300090: Cylinder004
+    3300092: Cylinder004 1
+    3300094: Cylinder005
+    3300096: Cylinder005 1
+    3300098: Cylinder006
+    3300100: Cylinder006 1
+    3300102: Cylinder007
+    3300104: Cylinder008
+    3300106: Cylinder009
+    3300108: Cylinder010
+    3300110: Cylinder011
+    3300112: Cylinder012
+    3300114: Cylinder013
+    3300116: Cylinder014
+    3300118: Cylinder026
+    3300120: Cylinder027
+    3300122: Cylinder028
+    3300124: Faca
+    3300126: Gatilho001
+    3300128: Line001
+    3300130: lp002
+    3300132: Mira001
+    3300134: Mira006
+    3300136: Mira_lente001
+    3300138: Mira_lente001 1
+    3300140: Mira_lente002
+    3300142: Object002
+    3300144: Object011
+    3300146: Object020
+    3300148: Object072
+    3300150: Object073
+    3300152: Object074
+    3300154: Object075
+    3300156: Object082
+    3300158: Object083
+    3300160: Object084
+    3300162: Object086
+    3300164: Object087
+    3300166: Object090
+    3300168: Object091
+    3300170: Object092
+    3300172: Object093
+    3300174: Object094
+    3300176: Object095
+    3300178: Object096
+    3300180: Object097
+    3300182: Object104
+    3300184: Tube001
+    3300186: Tube010
+    3300188: Tube013
+    3300190: Tube015
+    4300000: Faca
+    4300002: Cylinder014
+    4300004: Mira_lente002
+    4300006: Cartucho
+    4300008: Object086
+    4300010: Object072
+    4300012: Object073
+    4300014: Object074
+    4300016: Object075
+    4300018: Object082
+    4300020: Object083
+    4300022: Mira001
+    4300024: Mira_lente001
+    4300026: Object084
+    4300028: Object087
+    4300030: Mira_lente001
+    4300032: Box004
+    4300034: Object002
+    4300036: Box005
+    4300038: Cylinder011
+    4300040: Cylinder012
+    4300042: Cylinder013
+    4300044: Box016
+    4300046: Gatilho001
+    4300048: Cylinder010
+    4300050: Object011
+    4300052: Cylinder008
+    4300054: Cylinder004
+    4300056: Cylinder003
+    4300058: Cylinder001
+    4300060: Cylinder002
+    4300062: Line001
+    4300064: Cylinder007
+    4300066: Cylinder006
+    4300068: Cylinder009
+    4300070: Cylinder005
+    4300072: Box001
+    4300074: Box002
+    4300076: Cylinder027
+    4300078: Object104
+    4300080: Box001
+    4300082: Cylinder001
+    4300084: Cylinder006
+    4300086: Tube001
+    4300088: Box013
+    4300090: Box003
+    4300092: lp002
+    4300094: Tube010
+    4300096: Tube015
+    4300098: Tube013
+    4300100: Cylinder026
+    4300102: Cylinder028
+    4300104: Mira006
+    4300106: Cylinder005
+    4300108: Cylinder004
+    4300110: Cylinder003
+    4300112: Cylinder002
+    4300114: Object020
+    4300116: Object090
+    4300118: Object091
+    4300120: Object092
+    4300122: Object093
+    4300124: Object094
+    4300126: Object095
+    4300128: Object096
+    4300130: Object097
+    4300132: Bala_LOW002
+    4300134: Bala_LOW004
+    4300136: Bala_LOW005
+    4300138: Bala_LOW006
+    4300140: Bala_LOW007
+    4300142: Bala_LOW008
+    4300144: Bala_LOW009
+    4300146: Bala_LOW010
+    4300148: Bala_LOW011
+    4300150: Bala_LOW012
+    4300152: Bala_LOW013
+    4300154: Bala_LOW014
+    4300156: Bala_LOW015
+    4300158: Bala_LOW016
+    4300160: Bala_LOW017
+    4300162: Bala_LOW018
+    4300164: Bala_LOW019
+    4300166: Bala_LOW020
+    4300168: Bala_LOW021
+    4300170: Bala_LOW022
+    4300172: Bala_LOW023
+    4300174: Bala_LOW024
+    4300176: Bala_LOW025
+    4300178: Bala_LOW026
+    4300180: Bala_LOW027
+    4300182: Bala_LOW028
+    4300184: Bala_LOW029
+    4300186: Bala_LOW030
+    4300188: Bala_002
+    4300190: Bala_001
+    7400000: OpenGun
+    7400002: FoldingButt
+    7400004: CloseGun
+    7400006: UnfoldingButt
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FoldingButt
+      takeName: Take 001
+      firstFrame: 18
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bala
+        weight: 1
+      - path: Bala/Bala_001
+        weight: 1
+      - path: Bala/Bala_002
+        weight: 1
+      - path: Bala/Bala_LOW002
+        weight: 1
+      - path: Bala/Bala_LOW004
+        weight: 1
+      - path: Bala/Bala_LOW005
+        weight: 1
+      - path: Bala/Bala_LOW006
+        weight: 1
+      - path: Bala/Bala_LOW007
+        weight: 1
+      - path: Bala/Bala_LOW008
+        weight: 1
+      - path: Bala/Bala_LOW009
+        weight: 1
+      - path: Bala/Bala_LOW010
+        weight: 1
+      - path: Bala/Bala_LOW011
+        weight: 1
+      - path: Bala/Bala_LOW012
+        weight: 1
+      - path: Bala/Bala_LOW013
+        weight: 1
+      - path: Bala/Bala_LOW014
+        weight: 1
+      - path: Bala/Bala_LOW015
+        weight: 1
+      - path: Bala/Bala_LOW016
+        weight: 1
+      - path: Bala/Bala_LOW017
+        weight: 1
+      - path: Bala/Bala_LOW018
+        weight: 1
+      - path: Bala/Bala_LOW019
+        weight: 1
+      - path: Bala/Bala_LOW020
+        weight: 1
+      - path: Bala/Bala_LOW021
+        weight: 1
+      - path: Bala/Bala_LOW022
+        weight: 1
+      - path: Bala/Bala_LOW023
+        weight: 1
+      - path: Bala/Bala_LOW024
+        weight: 1
+      - path: Bala/Bala_LOW025
+        weight: 1
+      - path: Bala/Bala_LOW026
+        weight: 1
+      - path: Bala/Bala_LOW027
+        weight: 1
+      - path: Bala/Bala_LOW028
+        weight: 1
+      - path: Bala/Bala_LOW029
+        weight: 1
+      - path: Bala/Bala_LOW030
+        weight: 1
+      - path: Cartucho
+        weight: 1
+      - path: Coronha
+        weight: 1
+      - path: Coronha/Box004
+        weight: 1
+      - path: Coronha/Box005
+        weight: 1
+      - path: Coronha/Cylinder011
+        weight: 1
+      - path: Coronha/Cylinder012
+        weight: 1
+      - path: Coronha/Cylinder013
+        weight: 1
+      - path: Coronha/Object002
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: Corpo/Box003
+        weight: 1
+      - path: Corpo/Box013
+        weight: 1
+      - path: Corpo/Cano_mira
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder026
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder028
+        weight: 1
+      - path: Corpo/lp002
+        weight: 1
+      - path: Corpo/Mira006
+        weight: 1
+      - path: Corpo/Tube010
+        weight: 1
+      - path: Corpo/Tube013
+        weight: 1
+      - path: Corpo/Tube015
+        weight: 1
+      - path: Corpo_Batente
+        weight: 1
+      - path: Corpo_Batente/Box001
+        weight: 1
+      - path: Corpo_Batente/Box001 1
+        weight: 1
+      - path: Corpo_Batente/Box002
+        weight: 1
+      - path: Corpo_Batente/Cylinder001
+        weight: 1
+      - path: Corpo_Batente/Cylinder001 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder002
+        weight: 1
+      - path: Corpo_Batente/Cylinder003
+        weight: 1
+      - path: Corpo_Batente/Cylinder004
+        weight: 1
+      - path: Corpo_Batente/Cylinder005
+        weight: 1
+      - path: Corpo_Batente/Cylinder006
+        weight: 1
+      - path: Corpo_Batente/Cylinder006 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder007
+        weight: 1
+      - path: Corpo_Batente/Cylinder008
+        weight: 1
+      - path: Corpo_Batente/Cylinder009
+        weight: 1
+      - path: Corpo_Batente/Cylinder010
+        weight: 1
+      - path: Corpo_Batente/Cylinder027
+        weight: 1
+      - path: Corpo_Batente/Line001
+        weight: 1
+      - path: Corpo_Batente/Object011
+        weight: 1
+      - path: Corpo_Batente/Object104
+        weight: 1
+      - path: Corpo_Batente/Tube001
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder014/Mira_lente002
+        weight: 1
+      - path: Faca
+        weight: 1
+      - path: Mira_holografica
+        weight: 1
+      - path: Mira_holografica/Lentes
+        weight: 1
+      - path: Mira_holografica/Lentes/Mira_lente001 1
+        weight: 1
+      - path: Mira_holografica/Lentes/Object087
+        weight: 1
+      - path: Mira_holografica/Mira001
+        weight: 1
+      - path: Mira_holografica/Mira_lente001
+        weight: 1
+      - path: Mira_holografica/Object072
+        weight: 1
+      - path: Mira_holografica/Object073
+        weight: 1
+      - path: Mira_holografica/Object074
+        weight: 1
+      - path: Mira_holografica/Object075
+        weight: 1
+      - path: Mira_holografica/Object082
+        weight: 1
+      - path: Mira_holografica/Object083
+        weight: 1
+      - path: Mira_holografica/Object084
+        weight: 1
+      - path: Mira_holografica/Object086
+        weight: 1
+      - path: Punho
+        weight: 1
+      - path: Punho/Box016
+        weight: 1
+      - path: Punho/Gatilho001
+        weight: 1
+      - path: Suportes
+        weight: 1
+      - path: Suportes/Cylinder002 1
+        weight: 1
+      - path: Suportes/Cylinder003 1
+        weight: 1
+      - path: Suportes/Cylinder004 1
+        weight: 1
+      - path: Suportes/Cylinder005 1
+        weight: 1
+      - path: Suportes/Object020
+        weight: 1
+      - path: Suportes/Object090
+        weight: 1
+      - path: Suportes/Object091
+        weight: 1
+      - path: Suportes/Object092
+        weight: 1
+      - path: Suportes/Object093
+        weight: 1
+      - path: Suportes/Object094
+        weight: 1
+      - path: Suportes/Object095
+        weight: 1
+      - path: Suportes/Object096
+        weight: 1
+      - path: Suportes/Object097
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: OpenGun
+      takeName: Take 001
+      firstFrame: 85
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bala
+        weight: 1
+      - path: Bala/Bala_001
+        weight: 1
+      - path: Bala/Bala_002
+        weight: 1
+      - path: Bala/Bala_LOW002
+        weight: 1
+      - path: Bala/Bala_LOW004
+        weight: 1
+      - path: Bala/Bala_LOW005
+        weight: 1
+      - path: Bala/Bala_LOW006
+        weight: 1
+      - path: Bala/Bala_LOW007
+        weight: 1
+      - path: Bala/Bala_LOW008
+        weight: 1
+      - path: Bala/Bala_LOW009
+        weight: 1
+      - path: Bala/Bala_LOW010
+        weight: 1
+      - path: Bala/Bala_LOW011
+        weight: 1
+      - path: Bala/Bala_LOW012
+        weight: 1
+      - path: Bala/Bala_LOW013
+        weight: 1
+      - path: Bala/Bala_LOW014
+        weight: 1
+      - path: Bala/Bala_LOW015
+        weight: 1
+      - path: Bala/Bala_LOW016
+        weight: 1
+      - path: Bala/Bala_LOW017
+        weight: 1
+      - path: Bala/Bala_LOW018
+        weight: 1
+      - path: Bala/Bala_LOW019
+        weight: 1
+      - path: Bala/Bala_LOW020
+        weight: 1
+      - path: Bala/Bala_LOW021
+        weight: 1
+      - path: Bala/Bala_LOW022
+        weight: 1
+      - path: Bala/Bala_LOW023
+        weight: 1
+      - path: Bala/Bala_LOW024
+        weight: 1
+      - path: Bala/Bala_LOW025
+        weight: 1
+      - path: Bala/Bala_LOW026
+        weight: 1
+      - path: Bala/Bala_LOW027
+        weight: 1
+      - path: Bala/Bala_LOW028
+        weight: 1
+      - path: Bala/Bala_LOW029
+        weight: 1
+      - path: Bala/Bala_LOW030
+        weight: 1
+      - path: Cartucho
+        weight: 1
+      - path: Coronha
+        weight: 1
+      - path: Coronha/Box004
+        weight: 1
+      - path: Coronha/Box005
+        weight: 1
+      - path: Coronha/Cylinder011
+        weight: 1
+      - path: Coronha/Cylinder012
+        weight: 1
+      - path: Coronha/Cylinder013
+        weight: 1
+      - path: Coronha/Object002
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: Corpo/Box003
+        weight: 1
+      - path: Corpo/Box013
+        weight: 1
+      - path: Corpo/Cano_mira
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder026
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder028
+        weight: 1
+      - path: Corpo/lp002
+        weight: 1
+      - path: Corpo/Mira006
+        weight: 1
+      - path: Corpo/Tube010
+        weight: 1
+      - path: Corpo/Tube013
+        weight: 1
+      - path: Corpo/Tube015
+        weight: 1
+      - path: Corpo_Batente
+        weight: 1
+      - path: Corpo_Batente/Box001
+        weight: 1
+      - path: Corpo_Batente/Box001 1
+        weight: 1
+      - path: Corpo_Batente/Box002
+        weight: 1
+      - path: Corpo_Batente/Cylinder001
+        weight: 1
+      - path: Corpo_Batente/Cylinder001 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder002
+        weight: 1
+      - path: Corpo_Batente/Cylinder003
+        weight: 1
+      - path: Corpo_Batente/Cylinder004
+        weight: 1
+      - path: Corpo_Batente/Cylinder005
+        weight: 1
+      - path: Corpo_Batente/Cylinder006
+        weight: 1
+      - path: Corpo_Batente/Cylinder006 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder007
+        weight: 1
+      - path: Corpo_Batente/Cylinder008
+        weight: 1
+      - path: Corpo_Batente/Cylinder009
+        weight: 1
+      - path: Corpo_Batente/Cylinder010
+        weight: 1
+      - path: Corpo_Batente/Cylinder027
+        weight: 1
+      - path: Corpo_Batente/Line001
+        weight: 1
+      - path: Corpo_Batente/Object011
+        weight: 1
+      - path: Corpo_Batente/Object104
+        weight: 1
+      - path: Corpo_Batente/Tube001
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder014/Mira_lente002
+        weight: 1
+      - path: Faca
+        weight: 1
+      - path: Mira_holografica
+        weight: 1
+      - path: Mira_holografica/Lentes
+        weight: 1
+      - path: Mira_holografica/Lentes/Mira_lente001 1
+        weight: 1
+      - path: Mira_holografica/Lentes/Object087
+        weight: 1
+      - path: Mira_holografica/Mira001
+        weight: 1
+      - path: Mira_holografica/Mira_lente001
+        weight: 1
+      - path: Mira_holografica/Object072
+        weight: 1
+      - path: Mira_holografica/Object073
+        weight: 1
+      - path: Mira_holografica/Object074
+        weight: 1
+      - path: Mira_holografica/Object075
+        weight: 1
+      - path: Mira_holografica/Object082
+        weight: 1
+      - path: Mira_holografica/Object083
+        weight: 1
+      - path: Mira_holografica/Object084
+        weight: 1
+      - path: Mira_holografica/Object086
+        weight: 1
+      - path: Punho
+        weight: 1
+      - path: Punho/Box016
+        weight: 1
+      - path: Punho/Gatilho001
+        weight: 1
+      - path: Suportes
+        weight: 1
+      - path: Suportes/Cylinder002 1
+        weight: 1
+      - path: Suportes/Cylinder003 1
+        weight: 1
+      - path: Suportes/Cylinder004 1
+        weight: 1
+      - path: Suportes/Cylinder005 1
+        weight: 1
+      - path: Suportes/Object020
+        weight: 1
+      - path: Suportes/Object090
+        weight: 1
+      - path: Suportes/Object091
+        weight: 1
+      - path: Suportes/Object092
+        weight: 1
+      - path: Suportes/Object093
+        weight: 1
+      - path: Suportes/Object094
+        weight: 1
+      - path: Suportes/Object095
+        weight: 1
+      - path: Suportes/Object096
+        weight: 1
+      - path: Suportes/Object097
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CloseGun
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bala
+        weight: 1
+      - path: Bala/Bala_001
+        weight: 1
+      - path: Bala/Bala_002
+        weight: 1
+      - path: Bala/Bala_LOW002
+        weight: 1
+      - path: Bala/Bala_LOW004
+        weight: 1
+      - path: Bala/Bala_LOW005
+        weight: 1
+      - path: Bala/Bala_LOW006
+        weight: 1
+      - path: Bala/Bala_LOW007
+        weight: 1
+      - path: Bala/Bala_LOW008
+        weight: 1
+      - path: Bala/Bala_LOW009
+        weight: 1
+      - path: Bala/Bala_LOW010
+        weight: 1
+      - path: Bala/Bala_LOW011
+        weight: 1
+      - path: Bala/Bala_LOW012
+        weight: 1
+      - path: Bala/Bala_LOW013
+        weight: 1
+      - path: Bala/Bala_LOW014
+        weight: 1
+      - path: Bala/Bala_LOW015
+        weight: 1
+      - path: Bala/Bala_LOW016
+        weight: 1
+      - path: Bala/Bala_LOW017
+        weight: 1
+      - path: Bala/Bala_LOW018
+        weight: 1
+      - path: Bala/Bala_LOW019
+        weight: 1
+      - path: Bala/Bala_LOW020
+        weight: 1
+      - path: Bala/Bala_LOW021
+        weight: 1
+      - path: Bala/Bala_LOW022
+        weight: 1
+      - path: Bala/Bala_LOW023
+        weight: 1
+      - path: Bala/Bala_LOW024
+        weight: 1
+      - path: Bala/Bala_LOW025
+        weight: 1
+      - path: Bala/Bala_LOW026
+        weight: 1
+      - path: Bala/Bala_LOW027
+        weight: 1
+      - path: Bala/Bala_LOW028
+        weight: 1
+      - path: Bala/Bala_LOW029
+        weight: 1
+      - path: Bala/Bala_LOW030
+        weight: 1
+      - path: Cartucho
+        weight: 1
+      - path: Coronha
+        weight: 1
+      - path: Coronha/Box004
+        weight: 1
+      - path: Coronha/Box005
+        weight: 1
+      - path: Coronha/Cylinder011
+        weight: 1
+      - path: Coronha/Cylinder012
+        weight: 1
+      - path: Coronha/Cylinder013
+        weight: 1
+      - path: Coronha/Object002
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: Corpo/Box003
+        weight: 1
+      - path: Corpo/Box013
+        weight: 1
+      - path: Corpo/Cano_mira
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder026
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder028
+        weight: 1
+      - path: Corpo/lp002
+        weight: 1
+      - path: Corpo/Mira006
+        weight: 1
+      - path: Corpo/Tube010
+        weight: 1
+      - path: Corpo/Tube013
+        weight: 1
+      - path: Corpo/Tube015
+        weight: 1
+      - path: Corpo_Batente
+        weight: 1
+      - path: Corpo_Batente/Box001
+        weight: 1
+      - path: Corpo_Batente/Box001 1
+        weight: 1
+      - path: Corpo_Batente/Box002
+        weight: 1
+      - path: Corpo_Batente/Cylinder001
+        weight: 1
+      - path: Corpo_Batente/Cylinder001 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder002
+        weight: 1
+      - path: Corpo_Batente/Cylinder003
+        weight: 1
+      - path: Corpo_Batente/Cylinder004
+        weight: 1
+      - path: Corpo_Batente/Cylinder005
+        weight: 1
+      - path: Corpo_Batente/Cylinder006
+        weight: 1
+      - path: Corpo_Batente/Cylinder006 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder007
+        weight: 1
+      - path: Corpo_Batente/Cylinder008
+        weight: 1
+      - path: Corpo_Batente/Cylinder009
+        weight: 1
+      - path: Corpo_Batente/Cylinder010
+        weight: 1
+      - path: Corpo_Batente/Cylinder027
+        weight: 1
+      - path: Corpo_Batente/Line001
+        weight: 1
+      - path: Corpo_Batente/Object011
+        weight: 1
+      - path: Corpo_Batente/Object104
+        weight: 1
+      - path: Corpo_Batente/Tube001
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder014/Mira_lente002
+        weight: 1
+      - path: Faca
+        weight: 1
+      - path: Mira_holografica
+        weight: 1
+      - path: Mira_holografica/Lentes
+        weight: 1
+      - path: Mira_holografica/Lentes/Mira_lente001 1
+        weight: 1
+      - path: Mira_holografica/Lentes/Object087
+        weight: 1
+      - path: Mira_holografica/Mira001
+        weight: 1
+      - path: Mira_holografica/Mira_lente001
+        weight: 1
+      - path: Mira_holografica/Object072
+        weight: 1
+      - path: Mira_holografica/Object073
+        weight: 1
+      - path: Mira_holografica/Object074
+        weight: 1
+      - path: Mira_holografica/Object075
+        weight: 1
+      - path: Mira_holografica/Object082
+        weight: 1
+      - path: Mira_holografica/Object083
+        weight: 1
+      - path: Mira_holografica/Object084
+        weight: 1
+      - path: Mira_holografica/Object086
+        weight: 1
+      - path: Punho
+        weight: 1
+      - path: Punho/Box016
+        weight: 1
+      - path: Punho/Gatilho001
+        weight: 1
+      - path: Suportes
+        weight: 1
+      - path: Suportes/Cylinder002 1
+        weight: 1
+      - path: Suportes/Cylinder003 1
+        weight: 1
+      - path: Suportes/Cylinder004 1
+        weight: 1
+      - path: Suportes/Cylinder005 1
+        weight: 1
+      - path: Suportes/Object020
+        weight: 1
+      - path: Suportes/Object090
+        weight: 1
+      - path: Suportes/Object091
+        weight: 1
+      - path: Suportes/Object092
+        weight: 1
+      - path: Suportes/Object093
+        weight: 1
+      - path: Suportes/Object094
+        weight: 1
+      - path: Suportes/Object095
+        weight: 1
+      - path: Suportes/Object096
+        weight: 1
+      - path: Suportes/Object097
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: UnfoldingButt
+      takeName: Take 001
+      firstFrame: 59
+      lastFrame: 83
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bala
+        weight: 1
+      - path: Bala/Bala_001
+        weight: 1
+      - path: Bala/Bala_002
+        weight: 1
+      - path: Bala/Bala_LOW002
+        weight: 1
+      - path: Bala/Bala_LOW004
+        weight: 1
+      - path: Bala/Bala_LOW005
+        weight: 1
+      - path: Bala/Bala_LOW006
+        weight: 1
+      - path: Bala/Bala_LOW007
+        weight: 1
+      - path: Bala/Bala_LOW008
+        weight: 1
+      - path: Bala/Bala_LOW009
+        weight: 1
+      - path: Bala/Bala_LOW010
+        weight: 1
+      - path: Bala/Bala_LOW011
+        weight: 1
+      - path: Bala/Bala_LOW012
+        weight: 1
+      - path: Bala/Bala_LOW013
+        weight: 1
+      - path: Bala/Bala_LOW014
+        weight: 1
+      - path: Bala/Bala_LOW015
+        weight: 1
+      - path: Bala/Bala_LOW016
+        weight: 1
+      - path: Bala/Bala_LOW017
+        weight: 1
+      - path: Bala/Bala_LOW018
+        weight: 1
+      - path: Bala/Bala_LOW019
+        weight: 1
+      - path: Bala/Bala_LOW020
+        weight: 1
+      - path: Bala/Bala_LOW021
+        weight: 1
+      - path: Bala/Bala_LOW022
+        weight: 1
+      - path: Bala/Bala_LOW023
+        weight: 1
+      - path: Bala/Bala_LOW024
+        weight: 1
+      - path: Bala/Bala_LOW025
+        weight: 1
+      - path: Bala/Bala_LOW026
+        weight: 1
+      - path: Bala/Bala_LOW027
+        weight: 1
+      - path: Bala/Bala_LOW028
+        weight: 1
+      - path: Bala/Bala_LOW029
+        weight: 1
+      - path: Bala/Bala_LOW030
+        weight: 1
+      - path: Cartucho
+        weight: 1
+      - path: Coronha
+        weight: 1
+      - path: Coronha/Box004
+        weight: 1
+      - path: Coronha/Box005
+        weight: 1
+      - path: Coronha/Cylinder011
+        weight: 1
+      - path: Coronha/Cylinder012
+        weight: 1
+      - path: Coronha/Cylinder013
+        weight: 1
+      - path: Coronha/Object002
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: Corpo/Box003
+        weight: 1
+      - path: Corpo/Box013
+        weight: 1
+      - path: Corpo/Cano_mira
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder026
+        weight: 1
+      - path: Corpo/Cano_mira/Cylinder028
+        weight: 1
+      - path: Corpo/lp002
+        weight: 1
+      - path: Corpo/Mira006
+        weight: 1
+      - path: Corpo/Tube010
+        weight: 1
+      - path: Corpo/Tube013
+        weight: 1
+      - path: Corpo/Tube015
+        weight: 1
+      - path: Corpo_Batente
+        weight: 1
+      - path: Corpo_Batente/Box001
+        weight: 1
+      - path: Corpo_Batente/Box001 1
+        weight: 1
+      - path: Corpo_Batente/Box002
+        weight: 1
+      - path: Corpo_Batente/Cylinder001
+        weight: 1
+      - path: Corpo_Batente/Cylinder001 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder002
+        weight: 1
+      - path: Corpo_Batente/Cylinder003
+        weight: 1
+      - path: Corpo_Batente/Cylinder004
+        weight: 1
+      - path: Corpo_Batente/Cylinder005
+        weight: 1
+      - path: Corpo_Batente/Cylinder006
+        weight: 1
+      - path: Corpo_Batente/Cylinder006 1
+        weight: 1
+      - path: Corpo_Batente/Cylinder007
+        weight: 1
+      - path: Corpo_Batente/Cylinder008
+        weight: 1
+      - path: Corpo_Batente/Cylinder009
+        weight: 1
+      - path: Corpo_Batente/Cylinder010
+        weight: 1
+      - path: Corpo_Batente/Cylinder027
+        weight: 1
+      - path: Corpo_Batente/Line001
+        weight: 1
+      - path: Corpo_Batente/Object011
+        weight: 1
+      - path: Corpo_Batente/Object104
+        weight: 1
+      - path: Corpo_Batente/Tube001
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: Cylinder014/Mira_lente002
+        weight: 1
+      - path: Faca
+        weight: 1
+      - path: Mira_holografica
+        weight: 1
+      - path: Mira_holografica/Lentes
+        weight: 1
+      - path: Mira_holografica/Lentes/Mira_lente001 1
+        weight: 1
+      - path: Mira_holografica/Lentes/Object087
+        weight: 1
+      - path: Mira_holografica/Mira001
+        weight: 1
+      - path: Mira_holografica/Mira_lente001
+        weight: 1
+      - path: Mira_holografica/Object072
+        weight: 1
+      - path: Mira_holografica/Object073
+        weight: 1
+      - path: Mira_holografica/Object074
+        weight: 1
+      - path: Mira_holografica/Object075
+        weight: 1
+      - path: Mira_holografica/Object082
+        weight: 1
+      - path: Mira_holografica/Object083
+        weight: 1
+      - path: Mira_holografica/Object084
+        weight: 1
+      - path: Mira_holografica/Object086
+        weight: 1
+      - path: Punho
+        weight: 1
+      - path: Punho/Box016
+        weight: 1
+      - path: Punho/Gatilho001
+        weight: 1
+      - path: Suportes
+        weight: 1
+      - path: Suportes/Cylinder002 1
+        weight: 1
+      - path: Suportes/Cylinder003 1
+        weight: 1
+      - path: Suportes/Cylinder004 1
+        weight: 1
+      - path: Suportes/Cylinder005 1
+        weight: 1
+      - path: Suportes/Object020
+        weight: 1
+      - path: Suportes/Object090
+        weight: 1
+      - path: Suportes/Object091
+        weight: 1
+      - path: Suportes/Object092
+        weight: 1
+      - path: Suportes/Object093
+        weight: 1
+      - path: Suportes/Object094
+        weight: 1
+      - path: Suportes/Object095
+        weight: 1
+      - path: Suportes/Object096
+        weight: 1
+      - path: Suportes/Object097
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
